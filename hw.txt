@@ -1,0 +1,31 @@
+question 2
+
+start at 6,5
+end at 1,8
+
+  0123456789
+            
+0 XXXXXXXXXX
+1 X........X
+2 XXXXX.X.XX
+3 X...X.X..X
+4 X.X.o.X..X
+5 X.XXooXXXX
+6 XXXooooX.X
+7 XoXXoXXX.X
+8 XooooX...X
+9 XXXXXXXXXX
+
+first 12 (r,c) coordinates popped off the stack:
+ 1 (6,5)
+ 2 (6,6)
+ 3 (6,4)
+ 4 (7,4)
+ 5 (8,4)
+ 6 (8,3)
+ 7 (8,2)
+ 8 (8,1)
+ 9 (7,1)
+10 (6,3)
+11 (5,4)
+12 (4,4)
