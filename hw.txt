@@ -29,3 +29,35 @@ first 12 (r,c) coordinates popped off the stack:
 10 (6,3)
 11 (5,4)
 12 (4,4)
+
+question 4
+
+start at 6,5
+end at 1,8
+
+  0123456789
+            
+0 XXXXXXXXXX
+1 X........X
+2 XXXXXoX.XX
+3 X...XoX..X
+4 X.XoooX..X
+5 X.XXooXXXX
+6 XXXooooX.X
+7 X.XXoXXX.X
+8 X..ooX...X
+9 XXXXXXXXXX
+
+first 12 (r,c) coordinates popped off the stack:
+ 1 (6,5)
+ 2 (5,5)
+ 3 (6,4)
+ 4 (6,6)
+ 5 (4,5)
+ 6 (5,4)
+ 7 (6,3)
+ 8 (7,4)
+ 9 (3,5)
+10 (4,4)
+11 (8,4)
+12 (2,5)
